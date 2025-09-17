@@ -43,8 +43,10 @@
 
 ## 📫 Connect with Me  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tianchen-lan-762595180/)  
-- 📧 [Email](VA3CNM@Gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tianchen-lan-762595180/)  
+[![Email](https://img.shields.io/badge/Email-VA3CNM%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VA3CNM@gmail.com)  
+[![Discord](https://img.shields.io/badge/Discord-bruce0966-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/你的用户ID)
+
 
 ---
 ✨ *Just another privacy-focused developer that enjoys playing with new things every day.*  

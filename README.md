@@ -36,7 +36,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bruce-Lan00&layout=compact&theme=radical)  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?username=Bruce-Lan00&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bruce-Lan00&theme=radical)
 
 ---
 

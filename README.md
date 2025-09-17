@@ -8,6 +8,8 @@
 
 ## ⚙️ Tools & Tech I Use  
 
+## ⚙️ Tools & Tech I Use  
+
 | **Category**  | **Tech Stack** | **Usage** |
 |---------------|----------------|-----------|
 | **Frontend**  | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![Swift](https://img.shields.io/badge/Swift-FA7343?logo=swift&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) | iOS apps (ViolinBear), DApp frontends, interactive UIs |
@@ -16,6 +18,7 @@
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white) | Structured storage, analytics for ML/finance |
 | **AI / DS**   | ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white) ![Reinforcement Learning](https://img.shields.io/badge/RL-Green?style=for-the-badge) | NLP (N-gram), Clustering (K-means, DBSCAN), RL demos, recommender systems |
 | **Cybersec**  | ![Security](https://img.shields.io/badge/Cybersecurity-2E3440?logo=datadog&logoColor=00E5FF) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white) | Secure coding, smart contract auditing, network defense |
+
 
 ---
 

@@ -21,14 +21,12 @@
 
 ## 📂 Featured Projects  
 
-- 🎻 [**ViolinBear App**](https://github.com/yourusername/ViolinBear)  
+- 🎻 [**ViolinBear App**](https://github.com/Bruce-Lan00/ViolinBear)  
   AI-powered violin sheet music fingering annotation app (Swift + Flask + Audiveris).  
 
-- 🐶 [**PetShop DApp**](https://github.com/yourusername/PetShop)  
-  Decentralized adoption marketplace with donation ranking and breed tracking (Solidity + Web3.js).  
+- 🐶 [**pasShield**](https://github.com/shshengeng/pasShield)  
+  pasShield is a server-side technology for protecting password databases. pasShield's server-side password protection service is a drop-in replacement for standard password hashing functions.  
 
-- 📊 **Data Analytics & ML Projects**  
-  Advanced clustering, NLP with N-grams, and course recommender systems.  
 
 ---
 
@@ -44,9 +42,8 @@
 
 ## 📫 Connect with Me  
 
-- 🌐 [Website](https://yourwebsite.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourlinkedin)  
-- 📧 [Email](mailto:yourname@email.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tianchen-lan-762595180/)  
+- 📧 [Email](VA3CNM@Gmail.com)  
 
 ---
 ✨ *Always building, always learning.*  

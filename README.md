@@ -23,7 +23,7 @@
   - Game: TeamGroup T253 1TB SSD  
 </details>
 
-![Setup](your_workstation_image_url_here)
+![Setup](https://cdn-bio.qrz.com/m/va3cnm/_20250904162600_37_7.jpg)
 
 ---
 

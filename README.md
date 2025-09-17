@@ -6,27 +6,6 @@
 
 ---
 
-## 🖥️ My Beautiful Workstation
-
-<details>
-  <summary>💻 Machine Specs</summary>
-
-- **CPU**: AMD Ryzen 5 5700G  
-- **GPU**: Nvidia RTX 3060 & GT 710  
-- **RAM**: 64GB (4x16GB) Corsair Vengeance LPX CL16  
-- **Case**: MSI MPG Gungnir 111R  
-- **Cooler**: MSI MPG CORELIQUID K240 V2 AIO  
-- **Motherboard**: MSI B450 Gaming Plus  
-- **Drives**:  
-  - Boot: FastrO MS150 512GB NVMe  
-  - Work: Toshiba MQ01ABD100 1TB HDD  
-  - Game: TeamGroup T253 1TB SSD  
-</details>
-
-![Setup](https://cdn-bio.qrz.com/m/va3cnm/_20250904162600_37_7.jpg)
-
----
-
 ## ⚙️ Tools & Tech I Use  
 
 | **Category**  | **Tech Stack** | **Usage** |

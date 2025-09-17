@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Bruce Lan  
 
 🎓 Master of Engineering @ University of Toronto (MIE)  
-💻 Passionate about **Data Science, Machine Learning, Blockchain, and Software Engineering**  
+💻 Passionate about **Data Science, Machine Learning, Blockchain, Cybersecurity, and Software Engineering** 
 🎻 Creator of **ViolinBear App** – AI-powered violin fingering assistant  
 
 ---

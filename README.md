@@ -71,4 +71,4 @@
 - 📧 [Email](VA3CNM@Gmail.com)  
 
 ---
-✨ *Always building, always learning.*  
+✨ *Just another privacy-focused developer that enjoys playing with new things every day.*  

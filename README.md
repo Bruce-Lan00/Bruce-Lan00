@@ -4,6 +4,7 @@
 💻 Passionate about **Data Science, Machine Learning, Blockchain, Cybersecurity, and Software Engineering** 
 🎻 Creator of **ViolinBear App** – AI-powered violin fingering assistant  
 
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brucelan1512)
 ---
 
 ## ⚙️ Tools & Tech I Use  
@@ -42,7 +43,7 @@
 ---
 
 ## 📫 Connect with Me  
-
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@brucelan1512)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tianchen-lan-762595180/)  
 [![Email](https://img.shields.io/badge/Email-VA3CNM%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:VA3CNM@gmail.com)  
 [![Discord](https://img.shields.io/badge/Discord-bruce0966-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/你的用户ID)

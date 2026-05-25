@@ -34,8 +34,9 @@
 ## 📈 GitHub Stats  
 
 <p align="left">
-  <img src="https://camo.githubusercontent.com/97dbb6a18d18e285a7bd6a98dcb78cb71911fa15c106436f52e50523e1fde02a/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d42727563652d4c616e30302673686f775f6a636f6e733d74727565267468656d653d7261646963616c" alt="Bruce's GitHub stats" height="195" />
-  <img src="https://camo.githubusercontent.com/00e84b23b1fb2fa37df2118320fb7273bf699743c39e26ff3156cfc4ae5b7cb8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d42727563652d4c616e3030266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Top Langs" height="195" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bruce-Lan00&theme=radical" alt="Bruce's GitHub Stats" height="195" />
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Bruce-Lan00&theme=radical" alt="Top Langs" height="195" />
 </p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Bruce-Lan00&theme=radical)
